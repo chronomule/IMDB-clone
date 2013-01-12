@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLSpy® -->
+<pages>
+<link>
+<title>Can a user add/delete a movie?</title>
+<url>faq.php?name=adddel</url>
+</link>
+<link>
+<title>Are there two types of ratings?</title>
+<url>faq.php?name=twotype</url>
+</link>
+<link>
+<title>What is the advantage of registering as a user?</title>
+<url>faq.php?name=advantage</url>
+</link>
+<link>
+<title>Can a user rate a movie more than once?</title>
+<url>faq.php?name=multirate</url>
+</link>
+<link>
+<title>Does the MDBMS provide trailers?</title>
+<url>faq.php?name=trailer</url>
+</link>
+<link>
+<title>Are critic reviews available?</title>
+<url>faq.php?name=critic</url>
+</link>
+<link>
+<title>Can the search facility be availed of without registering as a user of the DBMS?</title>
+<url>faq.php?name=search</url>
+</link>
+</pages>
